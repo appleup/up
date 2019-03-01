@@ -1,0 +1,22 @@
+.header h3{display: block;width: 100%;text-align: center;}
+.header li{letter-spacing: 5px;font-size: 20px;}
+.header li{border-radius: 25px;padding: 5px;letter-spacing: 5px;font-size: 20px;border: 3px solid orange;margin-left: 10px;font-family: "M PLUS Rounded 1c";margin-top: 5px;}
+.hli{display: inline-block;width: 100%;margin: 0 auto;margin-top: 10px;}
+.header ul{text-align:center;}
+
+
+.cont{height: 600px;}
+.balloon2-right{left: 10%;font-size: 16px;}
+
+img.apple{width: 300px;padding-top:10px;}
+.apt{height: 200px}
+
+
+
+.cont-stry{padding-top: 180px;padding-left: 50px;}
+.cont-stry h3{font-size:16px;}
+.box_inner{padding: 1.5em;}
+
+.pcont img{width: 320px;}
+
+video{width: 80%;}

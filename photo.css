@@ -1,0 +1,5 @@
+.contp{padding-top: 200px;}
+.pcont{text-align: center;padding-top: 50px;font-family:  "M PLUS Rounded 1c";font-weight: bold;color: #242424;font-size: 23px;}
+.pcont img{box-shadow: 10px 10px 10px 5px rgba(255, 255, 255, 0.7);}
+
+.triangle3{width: 0;height: 0;border-left: 30px solid transparent;border-right: 30px solid transparent;border-top: 30px solid white;margin: auto;}

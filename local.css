@@ -1,0 +1,27 @@
+*{box-sizing: border-box;}
+body{margin: 0 auto; background:url(img/456931.jpg) center center / cover no-repeat fixed;}
+
+/*ヘッダー開始*/
+.cont{overflow: hidden;}
+.header{background-color: #552f2f;position: relative;width: 100%;height: 70px;position: fixed;z-index: 1}
+.header h3{position: absolute;font-family: "Nikukyu";font-size:32px;float: left;letter-spacing: 5px;position: relative; margin-left: 20px;
+transform: scale(1, 2);margin-top: 10px;color: white; }
+.header li{list-style: none;background-color: orange;border-radius: 25px;padding: 10px;color: white;font-weight: bold;letter-spacing: 5px;font-size: 20px;border: 3px solid orange;margin-left: 10px;font-family: "M PLUS Rounded 1c";}
+.hli{margin-top: 5px;margin-right: 10px;}
+.header ul{margin:0;padding:0;text-align:right;}
+.header li{display:inline-block;border-left:1px solid #ccc;padding:10px 20px;margin-right: 5px;}
+.header li:hover{color: gray;background-color: white;border: 2px solid gray;transition: 0.5s;}
+.header li:active{background-color: orange;color: white;border: 2px solid orange;transition: 0.5s;}
+span{color:firebrick}
+/*ヘッダー終了*/
+
+
+/*フッター開始*/
+.footer{position: absolute;right: 0;bottom: 0;margin-bottom: 5px;margin-right: 25px;position: fixed;z-index: 1}
+.fab{margin-left: 15px;}
+.fa-facebook-square{color: #39399a;right: 55px;}
+.fa-twitter-square{color: aqua;}
+.fa-question{margin-left: 15px;color: #d4d4d4}
+.twitter:before {font-family: "Font Awesome 5 Brands";content: '\f099';}
+
+/*フッター終了*/
